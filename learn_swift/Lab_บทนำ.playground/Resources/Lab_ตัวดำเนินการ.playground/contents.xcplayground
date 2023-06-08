@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='macos' display-mode='rendered' executeOnSourceChanges='true'>
+    <pages>
+        <page name='1. แบบฝึกหัด - คณิตศาสตร์พื้นฐาน'/>
+        <page name='2. แบบฝึกหัดแอป - การคำนวณข้อมูลฟิตเนส'/>
+        <page name='3. แบบฝึกหัด - การกำหนดค่าแบบผสม'/>
+        <page name='4. แบบฝึกหัดแอป - การนับ'/>
+        <page name='5. แบบฝึกหัด - ลำดับของตัวดำเนินการ'/>
+        <page name='6. แบบฝึกหัดแอป - การคำนวณข้อมูลฟิตเนสที่ซับซ้อน'/>
+        <page name='7. แบบฝึกหัด - การแปลงประเภทตัวเลข'/>
+        <page name='8. แบบฝึกหัดแอป - การแปลงประเภท'/>
+    </pages>
+</playground>
