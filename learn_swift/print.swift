@@ -1,3 +1,3 @@
-let pi = 3.1415
+print("Song: Come Along\nArtist: Kimza Music")
 
-print("Area of circle =",pi*2*2)
+print("\nLyrics:\nI walked in the palace from a guy who is now seeking love\nLive is in the edge trying to find the life that is above")
